@@ -1,6 +1,5 @@
 <h1 align="center">✨ Piko-Chat: Fullstack Chat & Video Calling App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
 Highlights:
 
