@@ -47,6 +47,10 @@ npm run dev
 
 ## 💻 Run the Frontend
 
+## Authentication Setup
+<img width="4788" height="5489" alt="Authentication" src="https://github.com/user-attachments/assets/0c3695d0-9918-4feb-8d77-a1369d85e518" />
+
+
 ```bash
 cd frontend
 npm install
